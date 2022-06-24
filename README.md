@@ -1,4 +1,4 @@
-# Automated-Tic-Tac-Toe-Game-using-C++
+# Automated-Tic-Tac-Toe-using-C++
 
 Implementation of the  automated Tic-Tac-Toe game
 
